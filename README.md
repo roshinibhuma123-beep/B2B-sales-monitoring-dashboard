@@ -2,7 +2,6 @@
 
 ## 📌 Project Overview
 The B2B Sales Monitoring Dashboard provides a comprehensive view of sales performance, profitability, client engagement, and regional sales trends. It enables businesses to monitor key sales metrics, identify top-performing clients and sales representatives, and make data-driven decisions.
-
 ## 🎯 Objectives
 - Track overall sales and profit performance.
 - Monitor monthly sales trends.
@@ -63,7 +62,7 @@ The B2B Sales Monitoring Dashboard provides a comprehensive view of sales perfor
 ## 📷 Dashboard Preview
 
 ### Overall Dashboard
-![Dashboard]("C:\Users\HP\Desktop\accounting projects\WhatsApp Image 2026-07-14 at 2.10.14 PM.jpeg")
+![Dashboard]()
 
 ## 💡 Business Insights
 - Identified high-value clients contributing significantly to revenue.
@@ -77,6 +76,5 @@ This dashboard helps businesses monitor sales performance in real time, improve 
 ## 👩‍💻 Author
 **Roshini Bhuma**
 
-🔗 LinkedIn: *(Add your LinkedIn URL here)*  
-🔗 Tableau Public: *(Add your Tableau Dashboard Link here)*  
+🔗 LinkedIn: https://www.linkedin.com/in/roshini-bhuma-667708356/ 
 🔗 GitHub: https://github.com/roshinibhuma123-beep
