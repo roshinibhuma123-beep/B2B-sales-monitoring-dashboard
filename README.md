@@ -62,7 +62,7 @@ The B2B Sales Monitoring Dashboard provides a comprehensive view of sales perfor
 ## 📷 Dashboard Preview
 
 ### Overall Dashboard
-![Dashboard]()
+![Dashboard](WhatsApp Image 2026-07-14 at 2.10.14 PM.jpeg)
 
 ## 💡 Business Insights
 - Identified high-value clients contributing significantly to revenue.
@@ -77,4 +77,4 @@ This dashboard helps businesses monitor sales performance in real time, improve 
 **Roshini Bhuma**
 
 🔗 LinkedIn: https://www.linkedin.com/in/roshini-bhuma-667708356/ 
-🔗 GitHub: https://github.com/roshinibhuma123-beep
+🔗 GitHub: 
