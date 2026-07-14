@@ -62,7 +62,7 @@ The B2B Sales Monitoring Dashboard provides a comprehensive view of sales perfor
 ## 📷 Dashboard Preview
 
 ### Overall Dashboard
-![Dashboard]("C:\Users\HP\Desktop\accounting projects\b2b analysis.jpeg")
+![Dashboard](b2b.pdf)
 
 ## 💡 Business Insights
 - Identified high-value clients contributing significantly to revenue.
